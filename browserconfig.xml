@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Por favor leer: https://msdn.microsoft.com/en-us/library/ie/dn455106.aspx -->
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="img/tile70x70.png"/>
+      <square150x150logo src="img/tile150x150.png"/>
+      <wide310x150logo src="img/tile310x150.png"/>
+      <square310x310logo src="img/tile310x310.png"/>
+    </tile>
+  </msapplication>
+</browserconfig>
